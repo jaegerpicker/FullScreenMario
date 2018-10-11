@@ -21,7 +21,7 @@
     ],
     "dependencies": {
         "chai": "~2.2.X",
-        "grunt": "~0.4.X",
+        "grunt": "~1.0.3",
         "grunt-cli": "~0.1.X",
         "grunt-contrib-concat": "~0.5.X",
         "grunt-contrib-clean": "~0.6.X",
@@ -35,7 +35,7 @@
         "grunt-typescript": "~0.6.X",
         "grunt-zip": "~0.16.X",
         "mocha": "~2.2.X",
-        "tslint": "~2.0.X",
+        "tslint": "~3.10.0",
         "typescript": "~1.4.X"
     }
 }
