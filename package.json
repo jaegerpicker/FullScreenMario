@@ -21,7 +21,7 @@
     ],
     "dependencies": {
         "chai": "~2.2.X",
-        "grunt": "~0.4.X",
+        "grunt": "~1.0.4",
         "grunt-cli": "~0.1.X",
         "grunt-contrib-concat": "~0.5.X",
         "grunt-contrib-clean": "~0.6.X",
