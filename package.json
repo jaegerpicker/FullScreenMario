@@ -34,7 +34,7 @@
         "grunt-tslint": "~2.0.X",
         "grunt-typescript": "~0.6.X",
         "grunt-zip": "~0.16.X",
-        "mocha": "~2.2.X",
+        "mocha": "~7.1.1",
         "tslint": "~2.0.X",
         "typescript": "~1.4.X"
     }
